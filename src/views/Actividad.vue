@@ -7,11 +7,11 @@
         .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
           .tarjeta.h-100.d-flex.align-items-center.p-4
             figure
-              img(src="@/assets/curso/temas/arrastrar.svg", alt="Arrastrar")
+              img(src="@/assets/curso/temas/Arrastrar_Soltar.svg", alt="")
         .col-12.col-md-8.col-lg-9
           .titulo-segundo.color-acento-contenido
             h2 Calidad del producto final
-          p.mb-4 El propósito de las siguientes actividades de aprendizaje es confirmar los conocimientos adquiridos durante el desarrollo de este componente formativo, por lo que lo invitamos a vincular cada concepto con una presentación.
+          p.mb-4 El propósito de la siguiente actividad de aprendizaje es confirmar los conocimientos adquiridos durante el desarrollo de este componente formativo, por lo que lo invitamos a vincular cada concepto con una presentación.
           .tarjeta.actividad.p-3
             .row.justify-content-around.align-items-center            
               .col-sm.mb-3.mb-sm-0
